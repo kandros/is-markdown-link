@@ -3,12 +3,6 @@
   "version": "1.0.0",
   "description": "check if argument is a markdown link",
   "author": "jaga santagostino <jagasantagostino@gmail.com>",
-  "devDependencies": {
-    "jest": "^18.1.0"
-  },
-  "scripts": {
-    "test": "jest"
-  },
   "main": "index.js",
   "license": "MIT",
   "repository": {

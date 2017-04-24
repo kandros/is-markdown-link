@@ -1,6 +1,6 @@
 {
   "name": "is-markdown-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check if argument is a markdown link",
   "author": "jaga santagostino <jagasantagostino@gmail.com>",
   "main": "index.js",
